@@ -12,7 +12,7 @@ Created on Fri Jun 21 20:27:01 2020
 
 from random import randrange
 import timeit
-from math import floor
+
 
 #Sorting Function
 
