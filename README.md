@@ -1,4 +1,5 @@
-![Alt text](/relative/path/to/python-logo.png?raw=true "Optional Title")
+![python-logo](https://user-images.githubusercontent.com/56992051/85579128-fbe45a80-b610-11ea-88cd-012f219f6961.png)
+
 
 # Sorting-Algorithms
 Repository in order to implement sorting algorithms in python 3.
