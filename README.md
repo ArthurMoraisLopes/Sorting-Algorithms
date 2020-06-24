@@ -1,4 +1,4 @@
-![python-logo](https://user-images.githubusercontent.com/56992051/85579128-fbe45a80-b610-11ea-88cd-012f219f6961.png)
+![python-logo](https://user-images.githubusercontent.com/56992051/85579958-b3796c80-b611-11ea-8a1b-41aa59087650.png)
 
 
 # Sorting-Algorithms
