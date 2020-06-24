@@ -1,5 +1,5 @@
 # Sorting-Algorithms
-  Repository in order to implement sorting algorithms in python 3.
+Repository in order to implement sorting algorithms in python 3.
 
 
 In the computing world it is essential to deliver clean, well-structured code with a compilation process in the smallest and possible storage (but it is practically impossible to obtain all these results at the same time). Therefore, to obtain an efficient and optimized code (in order to achieve good results mentioned above, one must analyze the specific algorithms of each area and compare each one, being defined by search, ordering and others.
